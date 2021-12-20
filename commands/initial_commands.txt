@@ -11,7 +11,7 @@ sudo apt install git-all
 
 # spotify-v2 specific
 
-git clone https://github.com/HennersMcGee/spotify-v2.git
+git clone https://github.com/HenryLetton/spotify-v2.git
 pip3 install -r spotify-v2/requirements.txt
 
 # Other
